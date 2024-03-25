@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ClaudeConseil/static/css/main.4da5b0f7.css",
-    "main.js": "/ClaudeConseil/static/js/main.79a05989.js",
+    "main.js": "/ClaudeConseil/static/js/main.ac85cc0c.js",
     "static/media/Mesange_charbonniere.mp3": "/ClaudeConseil/static/media/Mesange_charbonniere.82832626c721daf6ca3a.mp3",
     "static/media/Rouge_queue_noir.mp3": "/ClaudeConseil/static/media/Rouge_queue_noir.69c99ddab07a67d3bee1.mp3",
     "static/media/Grive_musicienne.mp3": "/ClaudeConseil/static/media/Grive_musicienne.1376209d8f9696764f0a.mp3",
@@ -43,10 +43,10 @@
     "index.html": "/ClaudeConseil/index.html",
     "static/media/find.svg": "/ClaudeConseil/static/media/find.303b87f499358979b1c66a3da1584e67.svg",
     "main.4da5b0f7.css.map": "/ClaudeConseil/static/css/main.4da5b0f7.css.map",
-    "main.79a05989.js.map": "/ClaudeConseil/static/js/main.79a05989.js.map"
+    "main.ac85cc0c.js.map": "/ClaudeConseil/static/js/main.ac85cc0c.js.map"
   },
   "entrypoints": [
     "static/css/main.4da5b0f7.css",
-    "static/js/main.79a05989.js"
+    "static/js/main.ac85cc0c.js"
   ]
 }
