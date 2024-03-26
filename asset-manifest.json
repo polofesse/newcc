@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/ClaudeConseil/static/css/main.4da5b0f7.css",
-    "main.js": "/ClaudeConseil/static/js/main.ac85cc0c.js",
+    "main.js": "/ClaudeConseil/static/js/main.ca6aedff.js",
+    "static/media/beretta.mp3": "/ClaudeConseil/static/media/beretta.81986b5ec84330a4e0d4.mp3",
+    "static/media/demandeacc.mp3": "/ClaudeConseil/static/media/demandeacc.958fcefef3d14f1d67dc.mp3",
     "static/media/Mesange_charbonniere.mp3": "/ClaudeConseil/static/media/Mesange_charbonniere.82832626c721daf6ca3a.mp3",
     "static/media/Rouge_queue_noir.mp3": "/ClaudeConseil/static/media/Rouge_queue_noir.69c99ddab07a67d3bee1.mp3",
     "static/media/Grive_musicienne.mp3": "/ClaudeConseil/static/media/Grive_musicienne.1376209d8f9696764f0a.mp3",
@@ -26,12 +28,14 @@
     "static/media/Pie-bavarde.mp3": "/ClaudeConseil/static/media/Pie-bavarde.91426755e654c3670641.mp3",
     "static/media/faucon crécerelles.mp3": "/ClaudeConseil/static/media/faucon crécerelles.34985be19f13febe58f7.mp3",
     "static/media/Moineau-domestique.mp3": "/ClaudeConseil/static/media/Moineau-domestique.46e944ba2508f4673cd7.mp3",
+    "static/media/The_Blue_Bird_1_01_by_StrixCZ.wsz": "/ClaudeConseil/static/media/The_Blue_Bird_1_01_by_StrixCZ.d1f7359b3ff51a2d7579.wsz",
     "static/media/linotte.mp3": "/ClaudeConseil/static/media/linotte.55b98fef15e66d0a08f4.mp3",
     "static/media/mouettes.mp3": "/ClaudeConseil/static/media/mouettes.37868e7d9005da762d62.mp3",
     "static/media/Grande-aigrette.mp3": "/ClaudeConseil/static/media/Grande-aigrette.d992ca222dcbded1340d.mp3",
     "static/media/chimes1.mp3": "/ClaudeConseil/static/media/chimes1.2df6cb9b6be75fa7fe38.mp3",
     "static/media/rossignol.mp3": "/ClaudeConseil/static/media/rossignol.e8cdfd134dce59c8297a.mp3",
     "static/media/error.wav": "/ClaudeConseil/static/media/error.c8da1695dd177fc9e8ec.wav",
+    "static/media/Leys.wsz": "/ClaudeConseil/static/media/Leys.95e1d21c73cdaba85efd.wsz",
     "static/media/Pic-vert.mp3": "/ClaudeConseil/static/media/Pic-vert.302757ae4c9b347cea53.mp3",
     "static/media/narrator.ico": "/ClaudeConseil/static/media/narrator.aeadcf16c506a1b17f3e.ico",
     "static/media/cadeau.png": "/ClaudeConseil/static/media/cadeau.06aad855e803b0f8cc5d.png",
@@ -43,10 +47,10 @@
     "index.html": "/ClaudeConseil/index.html",
     "static/media/find.svg": "/ClaudeConseil/static/media/find.303b87f499358979b1c66a3da1584e67.svg",
     "main.4da5b0f7.css.map": "/ClaudeConseil/static/css/main.4da5b0f7.css.map",
-    "main.ac85cc0c.js.map": "/ClaudeConseil/static/js/main.ac85cc0c.js.map"
+    "main.ca6aedff.js.map": "/ClaudeConseil/static/js/main.ca6aedff.js.map"
   },
   "entrypoints": [
     "static/css/main.4da5b0f7.css",
-    "static/js/main.ac85cc0c.js"
+    "static/js/main.ca6aedff.js"
   ]
 }
